@@ -1,5 +1,7 @@
-🔧 Loggon Backend
+🔧 Loggon Backend (Ecommerce Web App)
 A robust backend application built with NestJS, utilizing TypeORM for database interactions with MySQL. It provides RESTful APIs to support the Loggon frontend.
+
+**Role:** Served as Scrum Master and Backend Developer, leading Agile ceremonies and building core backend modules.
 
 🚀 Features
 NestJS framework for scalable and maintainable server-side applications.
@@ -51,3 +53,16 @@ TypeScript
 class-validator
 
 class-transformer
+
+## My Contributions
+- **Scrum Master:** Led Agile ceremonies, managed sprint backlog, and coordinated team tasks to ensure timely delivery  
+- **Backend Development:** Built core functionality using Node.js and NestJS  
+- **Users Module:** Implemented registration/login endpoints with JWT authentication and secure password hashing  
+- **Cart Module:** Developed RESTful endpoints, enforcing user-specific access, stock validations, and backend calculations for subtotal, tax, and shipping  
+- **Database Design:** Contributed to schema and entity relationships, ensuring data integrity between User, Product, and Cart tables  
+- **Frontend Collaboration:** Worked with frontend developers to integrate APIs, maintain consistent data flow, and handle invalid requests gracefully
+
+## Notes / Credits
+- This backend was developed as part of a team project.  
+- Frontend was implemented separately using React and TypeScript: [https://github.com/Bvsbee/loggon-ui]  
+- I contributed primarily to backend development and served as Scrum Master.
