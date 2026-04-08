@@ -1,4 +1,4 @@
-🔧 Loggon Backend (Ecommerce Web App)
+# Loggon Backend (Ecommerce Web App)
 A robust backend application built with NestJS, utilizing TypeORM for database interactions with MySQL. It provides RESTful APIs to support the Loggon frontend.
 
 **Role:** Served as Scrum Master and Backend Developer, leading Agile ceremonies and building core backend modules.
@@ -20,14 +20,14 @@ Modular architecture for easy scalability.
 📦 Installation
 Ensure you have Node.js and MySQL installed.
 
-# Clone the repository
+## Clone the repository
 git clone https://github.com/yourusername/loggon-backend.git
 cd loggon-backend
 
-# Install dependencies
+## Install dependencies
 npm install
 
-# Update/Create .env with your database credentials
+## Update/Create .env with your database credentials
 Open .env and update it with your local development settings:
 Example. 
 DB_HOST=localhost
@@ -37,11 +37,11 @@ DB_PASSWORD=yourpassword
 DB_DATABASE=loggon_dev
 PORT=3000
 
-# Start the development server
+## Start the development server
 npm run start:dev
 
 
-# Technologies Used🛠️ 
+## Technologies Used🛠️ 
 NestJS
 
 TypeORM
